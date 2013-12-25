@@ -19,4 +19,5 @@ XHFaceRecognizer 是一款耦合性很低，复用性很好的人脸检测组件
 至于用什么模式，就靠你们来决定了   
 
 
-想试玩和查收SDK效果项目工程请移步：https://github.com/JackTeam/XHFaceRecognizerSDKSimple，已经打包好，方便大家下载调试
+## 决定模式
+想试玩和查收SDK效果项目工程请移步（已经打包好，方便大家下载调试）：https://github.com/JackTeam/XHFaceRecognizerSDKSimple
